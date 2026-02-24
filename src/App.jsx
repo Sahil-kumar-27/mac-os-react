@@ -2,7 +2,7 @@ import React from 'react'
 import "./app.scss"
 import Dock from './components/Dock'
 import Nav from './components/nav'
-import MacWindow from './components/windows/MacWindow'
+import Github from './components/windows/Github'
 
 
 const App = () => {
@@ -10,9 +10,8 @@ const App = () => {
     <main>
       <Nav />
       <Dock />
-      <MacWindow>
-        <h1>Hello</h1>
-      </MacWindow>
+    
+      <Github />
     </main>
   )
 }

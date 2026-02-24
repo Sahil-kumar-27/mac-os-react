@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1000",
+    "title": "TaskFlow - Project Management App",
+    "description": "A collaborative task management platform that helps teams plan, track, and deliver projects efficiently with real-time updates.",
+    "tags": ["React", "Node.js", "Express", "MongoDB", "Redux", "Material UI"],
+    "repoLink": "https://github.com/nodejs/node",
+    "demoLink": "https://nodejs.org/"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=1000",
+    "title": "EduLearn - Online Learning Portal",
+    "description": "A modern e-learning platform featuring video courses, quizzes, and student progress tracking.",
+    "tags": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Tailwind CSS"],
+    "repoLink": "https://github.com/vercel/next.js",
+    "demoLink": "https://nextjs.org/"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=1000",
+    "title": "HealthSync - Fitness Tracking Dashboard",
+    "description": "A health monitoring dashboard that tracks workouts, calories, and daily activity with dynamic data visualization.",
+    "tags": ["Angular", "Firebase", "Chart.js", "SCSS", "REST API"],
+    "repoLink": "https://github.com/angular/angular",
+    "demoLink": "https://angular.io/"
+  },
+ {
+  "id": 4,
+  "image": "https://images.unsplash.com/photo-1522199710521-72d69614c702?auto=format&fit=crop&q=80&w=1000",
+  "title": "ShopEase - E-commerce Platform",
+  "description": "A scalable online shopping application with product filtering, cart management, and secure checkout integration.",
+  "tags": ["Laravel", "PHP", "MySQL", "Bootstrap", "Stripe API"],
+  "repoLink": "https://github.com/laravel/laravel",
+  "demoLink": "https://laravel.com/"
+},
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&q=80&w=1000",
+    "title": "CodeNote - Developer Note Manager",
+    "description": "A markdown-based note-taking application designed specifically for developers to organize snippets and documentation.",
+    "tags": ["Electron", "JavaScript", "SQLite", "Markdown", "Node.js"],
+    "repoLink": "https://github.com/electron/electron",
+    "demoLink": null
+  }
+]
