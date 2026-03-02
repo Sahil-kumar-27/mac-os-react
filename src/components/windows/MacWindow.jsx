@@ -7,7 +7,7 @@ const MacWindow = ({children}) => {
     <Rnd 
     default={{
       width:"50vw",
-      height:"70vh",
+      height:"60vh",
       x:300,
       y:100
     }}>

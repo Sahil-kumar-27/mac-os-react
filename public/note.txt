@@ -1,0 +1,144 @@
+/**
+ * @file: sahil.profile.md
+ * @author: Sahil Kumar
+ * @summary: Frontend-focused engineer building interactive and high-performance web experiences.
+ */
+
+--------------------------------------------------
+1. CORE SKILLS & TECH STACK
+--------------------------------------------------
+
+const TECH_STACK = {
+  frontend: [
+    "React.js",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "TailwindCSS"
+  ],
+
+  backend: [
+    "Python",
+    "FastAPI",
+    "Flask"
+  ],
+
+  fundamentals: [
+    "Responsive UI Design",
+    "Component-Based Architecture",
+    "DOM Manipulation",
+    "Performance Optimization"
+  ],
+
+  tools: ["Git", "VS Code", "Figma"]
+};
+
+
+--------------------------------------------------
+2. PROFESSIONAL EXPERIENCE
+--------------------------------------------------
+
+class ProfessionalHistory {
+
+  /**
+   * FRONTEND DEVELOPER INTERN
+   * @company Brilliance Innovation and Technologies LLP
+   * @period Internship
+   */
+  public BrillianceInnovation(): Impact {
+
+    const role = "Frontend Developer Intern";
+
+    const contributions = [
+      "Developed responsive and reusable UI components using React.js",
+      "Converted UI/UX designs into functional web interfaces",
+      "Implemented form handling, theme switching, and dynamic UI updates",
+      "Improved frontend performance and user experience",
+      "Maintained clean and scalable code structure"
+    ];
+
+    return { role, contributions };
+  }
+}
+
+--------------------------------------------------
+3. PROJECT ARCHIVE
+--------------------------------------------------
+
+const PROJECTS = [
+
+  {
+    name: "MacOS Web-Based System",
+    stack: ["React.js", "HTML", "CSS", "JavaScript"],
+    highlights: [
+      "MacOS-inspired browser operating system",
+      "Window navigation & app management",
+      "Wallpaper customization",
+      "Spotify playback integration",
+      "Modular React state management"
+    ]
+  },
+
+  {
+    name: "Productivity Dashboard",
+    stack: ["HTML", "CSS", "JavaScript"],
+    highlights: [
+      "To-Do list & daily planner",
+      "Pomodoro focus timer",
+      "Goal tracking system",
+      "Light/Dark theme switching",
+      "Live time & city detection"
+    ]
+  },
+
+  {
+    name: "Reels / Shorts UI Web App",
+    stack: ["HTML", "CSS", "JavaScript"],
+    highlights: [
+      "Social media style reels interface",
+      "Like, comment & share interactions",
+      "Follow/Unfollow system",
+      "Dynamic counters & animations",
+      "Mobile-first responsive design"
+    ]
+  }
+];
+
+
+--------------------------------------------------
+4. LEADERSHIP & RESPONSIBILITY
+--------------------------------------------------
+
+const COMMUNITY_WORK = {
+  program: "Desh Ke Mentor Program",
+  role: "Career Navigator / Mentor",
+  impact: [
+    "Guided 6 students from grades 10–12",
+    "Provided 25+ hours of mentorship",
+    "Supported career planning and motivation"
+  ]
+};
+
+
+--------------------------------------------------
+5. EDUCATION
+--------------------------------------------------
+
+const EDUCATION = [
+  "B.Tech Electrical Engineering — Delhi Technological University (2021–2025)",
+  "CBSE Class XII — Govt. Co-ed Sr. Sec School, Paschim Vihar"
+];
+
+
+--------------------------------------------------
+TERMINAL STATUS
+--------------------------------------------------
+
+```bash
+$ sahil --status
+> Role: Frontend / React Developer
+> Focus: Interactive UI & Web Experiences
+> Location: Delhi, India
+> Status: Open to Opportunities
+> Building... ██████████ 100%
+> Ready.
