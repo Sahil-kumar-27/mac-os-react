@@ -4,6 +4,7 @@ import Dock from './components/Dock'
 import Nav from './components/nav'
 import Github from './components/windows/Github'
 import Notes from './components/windows/Notes'
+import Resume from './components/windows/Resume'
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
     
       <Github />
       <Notes/>
+      <Resume/>
     </main>
   )
 }
