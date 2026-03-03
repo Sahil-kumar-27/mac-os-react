@@ -10,7 +10,7 @@ const Notes = () => {
   const [markdown, setMarkdown] = useState(null)
 
   useEffect(() => {
-       fetch("/public/note.txt")
+       fetch("/note.txt")
        .then(res => res.text())
        .then(text => setMarkdown(text))
   }, [])
