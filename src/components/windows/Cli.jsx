@@ -3,7 +3,7 @@ import MacWindow from "./MacWindow";
 import Terminal from "react-console-emulator";
 import "./cli.scss";
 
-const Cli = () => {
+const Cli = ({ windowName, windowState, setWindowState }) => {
   const commands = {
     help: {
       description: "Show all commands",
@@ -150,7 +150,11 @@ You are inside the matrix...
   };
 
   return (
-    <MacWindow>
+    <MacWindow
+      windowName={windowName}
+      windowState={windowState}
+      setWindowState={setWindowState}
+    >
       <div className="cli-window">
         <Terminal
           commands={commands}
